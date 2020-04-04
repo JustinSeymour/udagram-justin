@@ -1,0 +1,13 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Build artifacts
+www
+
+# Ignore node modules
+node-modules
+
+
