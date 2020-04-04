@@ -10,4 +10,5 @@ www
 # Ignore node modules
 node-modules
 
-
+# Mac
+.DS_Store
